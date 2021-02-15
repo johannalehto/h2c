@@ -1,0 +1,14 @@
+body{
+    background-color:#dad6d6;
+}
+
+header,
+nav,
+main{
+    background-color: snow;
+    max-width: 960px;
+    margin: 10px auto;
+    padding: 10px 20px;
+    font-family: Georgia, serif;
+    
+}
